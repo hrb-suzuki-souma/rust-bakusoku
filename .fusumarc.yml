@@ -1,0 +1,24 @@
+meta:
+  title:
+  thumbnail:
+  description:
+slide:
+  loop: false
+  sidebar: true
+  targetBlank: true
+  showIndex: true
+  isVertical: false
+  code:
+    languages:
+      - javascript
+      - rust
+    plugins: []
+    theme: default
+  chart: false
+  math: false
+extends:
+  js:
+  css: ./style.css
+  webpack:
+build:
+  ssr: true

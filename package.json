@@ -1,0 +1,11 @@
+{
+  "name": "rust-bakusoku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Souma Suzuki <suzuki.souma@hrbrain.co.jp>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "fusuma": "^1.15.0"
+  }
+}
