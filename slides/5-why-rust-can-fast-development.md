@@ -53,7 +53,7 @@ struct Point {
     y: i32
 }
 
-impl fmt::Display from Point {
+impl fmt::Display fro Point {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         // ここで (?, ?) の形式で書き出すようにしておく
         write!(f, "({}, {})", self.x, self.y)

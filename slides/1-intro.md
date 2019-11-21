@@ -12,7 +12,7 @@
 
 # 余談
 
-<img src="../img/multi.png" />
+<img src="../img/multi.png" width="800px" />
 
 ---
 
@@ -23,4 +23,4 @@ https://qiita.com/iwasaki501/items/51dc07b744d3f342008b
 
 ---
 
-<img src="../img/rust-rank.png" />
+<img src="../img/rust-rank.png" width="800px" />
